@@ -1,6 +1,5 @@
 .footer__link {
   color: #fff;
-  padding: 32px 0 0 16px;
   font: normal 24px/1 'Inter', sans-serif;
   text-decoration: none;
   transition: opacity ease-in .4s;
@@ -8,12 +7,7 @@
 
 @media (min-width: 768px) {
   .footer__link {
-    padding: 0 0 0 18px;
     font: normal 16px/1.12 'Inter', sans-serif;
-  }
-  
-  .footer__link:first-child {
-    padding: 0;
   }
 }
 

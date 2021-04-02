@@ -8,8 +8,8 @@
 
 @media (min-width: 768px) {
   .footer {
-    padding: 88px min(3vw, 48px) 24px;
-    flex-flow: row nowrap;
+    padding: 0 min(3.1vw, 48px) 0;
+    flex-flow: row;
     justify-content: flex-start;
     align-items: center;
   }
@@ -17,6 +17,6 @@
 
 @media (min-width: 1184px) {
   .footer {
-    padding: 88px min(calc((1280px - 1184px) / 2), calc((100vw - 1184px) / 2)) 24px;
+    padding: 0 min(calc((1280px - 1184px) / 2), calc((100vw - 1184px) / 2));
   }
 }

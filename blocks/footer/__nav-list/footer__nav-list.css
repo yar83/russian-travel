@@ -1,0 +1,18 @@
+.footer__nav-list {
+  margin: 0;
+  padding: 64px 0 0;
+  list-style: none;
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+@media (min-width: 768px) {
+  .footer__nav-list {
+    padding: 88px 0 24px;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
