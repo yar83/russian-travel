@@ -5,7 +5,7 @@
   width: 90vw;
   max-width: 720px;
   color: #fff;
-  font: bold min(12.5vw, 96px) / min(1.1em, 100px) 'Inter', sans-serif;
+  font: 900 min(12.5vw, 96px) / min(1.1em, 100px) 'Inter', sans-serif;
 }
 
 @media (min-width: 1280px) {

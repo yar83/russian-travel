@@ -1,7 +1,7 @@
 .cover__title {
   margin: 0 0 min(5vw, 32px) 0;
   padding: 0;
-  font: bold min(10vw, 72px)/min(1.06em, 76px) 'Inter', sans-serif;
+  font: 900 min(10vw, 72px)/min(1.06em, 76px) 'Inter', sans-serif;
   color: #fff;
   min-width: 288px;
   max-width: 560px;

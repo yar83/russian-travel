@@ -2,13 +2,13 @@
   padding: 0;
   margin: 0 min(5vw, 24px) 0;
   color: #fff;
-  font: bold 32px/1.09 'Inter', sans-serif;
+  font: 900 32px/1.09 'Inter', sans-serif;
   align-self: flex-start;
 }
 
 @media (min-width: 768px) {
   .place__title {
-    font: bold 42px/1.1 'Inter', sans-serif;
+    font: 900 42px/1.1 'Inter', sans-serif;
     align-self: auto;
     margin: 0;
   }
@@ -17,6 +17,6 @@
 @media (min-width: 1024px) {
   .place__title {
     max-width: 440px;
-    font: bold 72px/1.06 'Inter', sans-serif;
+    font: 900 72px/1.06 'Inter', sans-serif;
   }
 }
