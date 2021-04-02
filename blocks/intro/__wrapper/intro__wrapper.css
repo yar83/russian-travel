@@ -1,0 +1,18 @@
+.intro__wrapper {
+  padding: 0 min(5vw, 24px) 0;
+  align-self: flex-start;
+}
+
+@media (min-width: 928px) {
+  .intro__wrapper {
+    width: 928px;
+    padding: 0;
+    align-self: auto;
+  }
+}
+
+@media (min-width: 1280px) {
+  .intro__wrapper {
+    width: 984px;
+  }
+}

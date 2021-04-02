@@ -1,0 +1,15 @@
+.footer__copyright {
+  color: #fff;
+  padding: 48px 0 24px 16px;
+  font: normal 14px/1 'Inter', sans-serif;
+  text-decoration: none;
+  transition: opacity ease-in .4s;
+}
+
+@media (min-width: 768px) {
+  .footer__copyright {
+    font: normal 14px/1.14 'Inter', sans-serif;
+    padding: 0;
+    margin-left: auto;
+  }
+}

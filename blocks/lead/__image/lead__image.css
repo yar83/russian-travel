@@ -1,0 +1,9 @@
+.lead__image {
+  width: min(100%, 928px);
+}
+
+@media (min-width: 1280px) {
+  .lead__image {
+    width: 984px;
+  }
+}

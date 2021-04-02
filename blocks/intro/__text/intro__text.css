@@ -1,0 +1,12 @@
+.intro__text {
+  color: #fff;
+  margin: 0;
+  padding: 40px 0 34px;
+  font: 16px/1.63 'Inter', sans-serif;
+}
+
+@media (min-width: 928px) {
+  .intro__text {
+    width: 690px;
+  }
+}

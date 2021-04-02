@@ -1,0 +1,9 @@
+.cover__subtitle {
+  margin: 0;
+  padding: 0;
+  font: normal min(4.4vw, 18px)/min(1.14em, 1.22em) 'Inter', sans-serif;
+  color: #fff;
+  min-width: 288px;
+  max-width: 360px;
+  text-align: center;
+}

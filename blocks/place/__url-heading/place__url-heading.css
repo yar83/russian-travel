@@ -1,0 +1,13 @@
+.place__url-heading {
+  color: #aaa;
+  margin: 32px 0 12px 0;
+  padding: 0;
+  font: normal 12px/1 'Inter', sans-serif;
+}
+
+@media (min-width: 768px) {
+  .place__url-heading {
+    margin: 0 0 12px 0;
+    padding: 0;
+  }
+}

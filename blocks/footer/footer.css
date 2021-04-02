@@ -1,0 +1,22 @@
+.footer {
+  background: #2a2c2f;
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    padding: 88px min(3vw, 48px) 24px;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}
+
+@media (min-width: 1184px) {
+  .footer {
+    padding: 88px min(calc((1280px - 1184px) / 2), calc((100vw - 1184px) / 2)) 24px;
+  }
+}

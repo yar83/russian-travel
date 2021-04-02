@@ -1,0 +1,12 @@
+.place__link-wrapper {
+  align-self: flex-start;
+  margin: 0 min(5vw, 24px) 0;
+}
+
+@media (min-width: 768px) {
+  .place__link-wrapper {
+    padding: 0;
+    margin: 0;
+    align-self: flex-end;
+  }
+}

@@ -1,0 +1,20 @@
+.langs {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  color: #fff;
+  font: normal 18px/20px 'Inter', sans-serif;
+}
+
+@media (min-width: 425px) {
+  .langs {
+  font: normal 21px/24px 'Inter', sans-serif;
+  }
+}
+
+@media (min-width: 768px) {
+  .langs {
+  font: normal 24px/28px 'Inter', sans-serif;
+  }
+}

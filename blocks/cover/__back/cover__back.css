@@ -1,0 +1,7 @@
+.cover__back {
+  width: 100%;
+  max-width: 1184px;
+  padding-top: min(62.5%, 740px);
+  background: center/contain no-repeat url(../../../images/cover-trains.jpg);
+  position: relative;
+}

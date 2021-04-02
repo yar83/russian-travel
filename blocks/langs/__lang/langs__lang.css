@@ -1,0 +1,8 @@
+.langs__lang {
+  padding: 0;
+  margin: 14px 18px 8px 0;
+}
+
+.langs__lang:last-child {
+  margin: 14px 0 8px;
+}  

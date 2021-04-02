@@ -1,0 +1,28 @@
+.intro {
+  margin: 0;
+  padding: 20% 0 0;
+  background: #2a2c2f;
+
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+@media (min-width: 425px) {
+  .intro {
+    padding: 11.5% 0 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .intro {
+    padding: 9% 0 0;
+  }
+}
+
+@media (min-width: 1280px) {
+  .intro {
+    padding: 7.2% 0 0;
+  }
+}

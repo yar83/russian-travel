@@ -1,0 +1,7 @@
+.places__list-places {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  max-width: 984;
+}

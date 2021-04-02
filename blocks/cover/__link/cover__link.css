@@ -1,0 +1,39 @@
+.cover__link {
+  text-decoration: none;
+  display: inline-flex;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.cover__link::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #000;
+  opacity: 0.3;
+  transition: opacity ease-out.6s;
+  z-index: -1;
+}
+
+.cover__link:hover::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #000;
+  opacity: 0.8;
+  z-index: -1;
+}

@@ -1,0 +1,14 @@
+.lead__subtitle {
+  margin: 0;
+  padding: 0 0 min(12.5vw, 56px);
+  text-align: center;
+  width: min(90vw, 640px);
+  color: #fff;
+  font: normal min(5vw, 30px)/min(1.25em, 36px) 'Inter', sans-serif;
+}
+
+@media (min-width: 1280px) {
+  .lead__subtitle {
+    padding: 0 0 64px;
+  }
+}

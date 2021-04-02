@@ -1,0 +1,11 @@
+.place__text-wrapper {
+  align-self: flex-start;
+  margin: 0 min(5vw, 24px) 0;
+}
+
+@media (min-width: 768px) {
+  .place__text-wrapper {
+    padding: 0;
+    margin: 0;
+  }
+}
