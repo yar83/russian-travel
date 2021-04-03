@@ -12,6 +12,7 @@
 
 @media (min-width: 1024px) {
   .place__paragraph {
+  font: normal 18px/1.63 'Inter', sans-serif;
     margin: 0 0 27px;
   }
 }

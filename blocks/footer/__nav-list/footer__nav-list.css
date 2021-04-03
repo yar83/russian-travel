@@ -8,11 +8,10 @@
   align-items: flex-start;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) { /* Удалено дублирование justify-content:flex-start; */ 
   .footer__nav-list {
     padding: 88px 0 24px;
     flex-flow: row nowrap;
-    justify-content: flex-start;
     align-items: center;
   }
 }

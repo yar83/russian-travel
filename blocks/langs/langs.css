@@ -1,4 +1,7 @@
 .langs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
@@ -7,14 +10,14 @@
   font: normal 18px/20px 'Inter', sans-serif;
 }
 
-@media (min-width: 425px) {
+@media (min-width: 425px) { 
   .langs {
-  font: normal 21px/24px 'Inter', sans-serif;
+    font: normal 21px/24px 'Inter', sans-serif;
   }
 }
 
 @media (min-width: 768px) {
   .langs {
-  font: normal 24px/28px 'Inter', sans-serif;
+    font: normal 24px/28px 'Inter', sans-serif;
   }
 }

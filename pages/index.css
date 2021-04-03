@@ -13,7 +13,7 @@
 
 @import url(../blocks/langs/langs.css);
 @import url(../blocks/langs/__lang/langs__lang.css);
-@import url(../blocks/langs/__lang/_status_active/langs__lang_status_active.css);
+@import url(../blocks/langs/__lang/_status/langs__lang_status_active.css);
 @import url(../blocks/langs/__link/langs__link.css);
 
 @import url(../blocks/lead/lead.css);
@@ -26,11 +26,11 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-text/intro__list-text.css);
 @import url(../blocks/intro/__wrapper/intro__wrapper.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__photo/photo-grid__photo.css);
-@import url(../blocks/photo-grid/__wrapper/photo-grid__wrapper.css);
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/__list-places/places__list-places.css);

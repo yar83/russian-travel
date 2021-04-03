@@ -6,11 +6,10 @@
   align-items: flex-start;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) { /* удалено дублирование justify-content: flex-start; */
   .footer {
     padding: 0 min(3.1vw, 48px) 0;
     flex-flow: row;
-    justify-content: flex-start;
     align-items: center;
   }
 }
