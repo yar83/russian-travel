@@ -29,6 +29,7 @@
   left: 0;
   background: #2a2c2f;
   opacity: 0.3;
+  transition: opacity ease-in .4s;
   z-index: -1;
 }
 
