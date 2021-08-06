@@ -3,7 +3,7 @@
 
 ## Education project "Travel across Russia"
 
-Project describes beautifull Russian places that any traveller should visit. It is a small static web application with full range of modern web-development techniques such as responsive layout accessibl on devices with broad variety of screen size. It uses media queries for adjusting its appearance.
+Project describes beautifull Russian places that any traveller should visit. It is a small static web application with full range of modern web-development techniques such as responsive layout accessibleon devices with broad variety of screen size. It uses media queries for adjusting its appearance.
 
 #### Main technologies
 **HTML**<br>
