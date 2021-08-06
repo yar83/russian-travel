@@ -12,7 +12,7 @@ Uses semantic tags fro better readability and accessability of the site.
 **CSS**<br>
 For proper positioning of elements witih divs **Flex** is used whereas **Grid** is used mostly for adjustment containers relative to each other.
 
-You can see it: https://yar83.github.io/russian-travel/index.html>
+You can see it: https://yar83.github.io/russian-travel/index.html
 
 # Путешествие по России
 
