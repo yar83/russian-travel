@@ -1,4 +1,4 @@
-[ENG](#education-project-travel-across-russia)
+[ENG](#education-project-travel-across-russia)<br>
 [RUS](#учебный-проект-путешествие-по-россии)
 
 ##Education project "Travel across Russia"
