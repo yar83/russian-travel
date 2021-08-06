@@ -8,23 +8,22 @@ Project describes beautifull Russian places that any traveller should visit. It 
 #### Main technologies
 **HTML**<br>
 Uses semantic tags fro better readability and accessability of the site.
-<br>
+
 **CSS**<br>
 For proper positioning of elements witih divs **Flex** is used whereas **Grid** is used mostly for adjustment containers relative to each other.
+**Media queris** are broadly used to adjust layout to current device's screen size.
 
 You can see it: https://yar83.github.io/russian-travel/index.html
 
-# Путешествие по России
+## Учебный проект "Путешествие по России"
 
-## Адаптивная вёрстка проекта, рассказывающего о незабываемых уголках родной страны.
+Сайт рассказывает (и показывает) незабываемые уголки России, которые нужно посетить каждому путешественнику. Это небольшое веб-приложении, основанное на современных технологиях адаптивной вёрстки, позволяющих отображать сайт на устройствах с самыми разными размерами экрана.
 
-### Технологической базой реализации адаптивности проекта служат различные диапазоны медиазапросов, позволяющие гибко позиционировать элементы и задавать им размеры в зависимости от ширины пользовательского экрана.
+#### Основные технологии
+**HTML**<br>
+Широко используются семантические элементы для улучшения доступности и читаемости сайта.
 
-__Базовый технологический стек__:
+**CSS**<br>
+Для позиционирования элементов внутри контейнеров используется **Flex**, сами контейнеры позиционируются относительно друг друга в основном с помощью **Grid**. Для подгонки макета под размер экрана применюятся медиа запросы.
 
-1. Flexbox Layout
-2. Grid Layout
-3. CSS
-4. HTML 5
-
-GitHub Pages: <https://yar83.github.io/russian-travel/index.html>
+Сайт можно увидеть здесь: https://yar83.github.io/russian-travel/index.html
